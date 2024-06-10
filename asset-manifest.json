@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/armyShop/static/css/main.54978949.css",
+    "main.js": "/armyShop/static/js/main.703e0e82.js",
+    "static/js/453.0f4552a2.chunk.js": "/armyShop/static/js/453.0f4552a2.chunk.js",
+    "index.html": "/armyShop/index.html",
+    "main.54978949.css.map": "/armyShop/static/css/main.54978949.css.map",
+    "main.703e0e82.js.map": "/armyShop/static/js/main.703e0e82.js.map",
+    "453.0f4552a2.chunk.js.map": "/armyShop/static/js/453.0f4552a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54978949.css",
+    "static/js/main.703e0e82.js"
+  ]
+}
