@@ -1,0 +1,33 @@
+.vidguktitle {
+text-align: center;
+font-family: Verdana;
+
+}
+.vidguk {
+
+background-color: rgb(15, 15, 115);
+text-align: center;
+margin: 0 auto;
+width: 80%;
+border-radius: 100000000px;
+box-shadow: 0 0 10px purple;
+padding: 20px;
+color: gold;
+margin-bottom: 50px;
+}
+.vidguk-btn {
+padding: 5px 15px;
+margin: 10px;
+background-color: blue;
+color: gold;
+border: 2px solid greenyellow;
+font-weight: bold;
+border-radius: 8px;
+}
+.vidguk-btn:hover {
+    background-color: aqua;
+    color: blueviolet;
+}
+.vidgukimage {
+    height: 400px;
+}
